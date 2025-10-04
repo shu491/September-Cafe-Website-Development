@@ -35,10 +35,9 @@ September Café is a fully functional website that showcases café products and 
 - **Responsive Design** - Seamless experience across all device sizes
 - **Accessibility** - Considerate design for various user needs
 
-## Installation & Usage
+## View the Website
 
-### Local Development
-1. **Clone the repository**
-```bash
-git clone https://github.com/shu491/September-Cafe-Website-Development.git
-cd September-Cafe-Website-Development
+### Live Demo 
+**https://shu491.github.io/September-Cafe-Website-Development/**
+
+
